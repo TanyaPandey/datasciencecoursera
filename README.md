@@ -1,3 +1,3 @@
 # Creating a mark-down file
-##Testing the formatting
-###tertiary heading
+#Testing the formatting
+#tertiary heading
